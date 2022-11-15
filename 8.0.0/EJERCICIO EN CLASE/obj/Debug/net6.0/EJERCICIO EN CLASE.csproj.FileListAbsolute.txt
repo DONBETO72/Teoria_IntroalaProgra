@@ -1,0 +1,15 @@
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.csproj.AssemblyReference.cache
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.AssemblyInfoInputs.cache
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.AssemblyInfo.cs
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.csproj.CoreCompileInputs.cache
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\bin\Debug\net6.0\EJERCICIO EN CLASE.exe
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\bin\Debug\net6.0\EJERCICIO EN CLASE.deps.json
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\bin\Debug\net6.0\EJERCICIO EN CLASE.runtimeconfig.json
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\bin\Debug\net6.0\EJERCICIO EN CLASE.dll
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\bin\Debug\net6.0\EJERCICIO EN CLASE.pdb
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.dll
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\refint\EJERCICIO EN CLASE.dll
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.pdb
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\EJERCICIO EN CLASE.genruntimeconfig.cache
+C:\Users\betof\OneDrive\Escritorio\UNIVERSIDAD\AA CICLO 02\PROGRA\8.0.0\EJERCICIO EN CLASE\obj\Debug\net6.0\ref\EJERCICIO EN CLASE.dll
